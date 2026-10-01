@@ -1,4 +1,4 @@
-beverage = "water"
+beverage = "bubble tea"
 count = 2
 
 print(count, "bottles of", beverage, "on the wall")
